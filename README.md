@@ -10,7 +10,7 @@ A lightweight and responsive calculator built using HTML, CSS, and JavaScript. T
 
 ## Preview
 
-![Calculator Screenshot]([path-to-screenshot.png](https://github.com/MHN-Sathsara/Simple-JS-HTML-Calculator/blob/main/Preview.png?raw=true)) 
+![image alt](https://github.com/MHN-Sathsara/Simple-JS-HTML-Calculator/blob/75b1fda101b4311641f8334a1cd9977a91d8c3da/Preview.png) 
 
 ## Technologies Used
 
