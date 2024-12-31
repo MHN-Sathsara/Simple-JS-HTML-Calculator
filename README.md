@@ -22,7 +22,7 @@ A lightweight and responsive calculator built using HTML, CSS, and JavaScript. T
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/simple-js-calculator.git](https://github.com/MHN-Sathsara/Simple-JS-HTML-Calculator.git)](https://github.com/MHN-Sathsara/Simple-JS-HTML-Calculator)
+   git clone https://github.com/MHN-Sathsara/Simple-JS-HTML-Calculator.git
    ```
 2. Navigate to the project folder:
    ```bash
